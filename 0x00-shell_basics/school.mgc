@@ -1,2 +1,3 @@
 #!/bin/bash
-file -C -i [-m school.mgc]
+touch school.mgc
+file -i *School
